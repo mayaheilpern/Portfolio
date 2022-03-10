@@ -1,8 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/
-    - index.html $DEPLOYPATH
-    - index.css $DEPLOYPATH
-    - index.js $DEPLOYPATH
-    - maya-heilpern.pdf $DEPLOYPATH
