@@ -203,7 +203,6 @@ a {
 #skills {
   margin: 5rem 0 0 0;
   min-height: calc(90vh - 5rem);
-  border: solid white 2px;
   position: relative;
 }
 
